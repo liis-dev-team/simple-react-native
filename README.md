@@ -48,8 +48,17 @@ Problems:
 
 ## System
 
+### [react-native-iap](https://react-native-iap.dooboolab.com/docs/intro)❤
+
+React-native native module for In-App Purchase.
+
 ## Utils
 
+### [patch-package](https://github.com/ds300/patch-package)💚
+
+Patch-package lets app authors instantly make and keep fixes to dependencies.
+
+Very useful if you want to fix a third party library.
 ## UI
 ### [react-native-blur](https://github.com/Kureev/react-native-blur) ❤
 

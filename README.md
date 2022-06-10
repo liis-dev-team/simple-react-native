@@ -7,7 +7,9 @@ Welcome to Simple React Native! Useful libraries, instructions, tutorials and mo
 <br/>
 <br/>
 
-💚 💛 ❤
+# FAQ
+ - To add categories use [DocToc](https://github.com/thlorenz/doctoc)
+ - When you add a new library, put near it hardmeter 💚 💛 ❤
 
 # Categories
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -30,8 +32,6 @@ Standard set of easy to use animations.
 
 ## Integrations
 
-
-
 ## Storage
 
 ## System
@@ -39,13 +39,6 @@ Standard set of easy to use animations.
 ## Utils
 
 ## UI
-### [react-native-blur](https://github.com/Kureev/react-native-blur) ❤
-
-React Native Blur component
-
-Problems: 
-- [you need to patch app for correct work on android](https://github.com/Kureev/react-native-blur/pull/411#issuecomment-818396825)
-- confilicts with React Native Reanimated
 ### [react-native-blur](https://github.com/Kureev/react-native-blur) ❤
 
 React Native Blur component

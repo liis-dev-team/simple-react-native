@@ -30,9 +30,21 @@ Welcome to Simple React Native! Useful libraries, instructions, tutorials and mo
 
 Standard set of easy to use animations.
 
+### [lottie-react-native](https://github.com/airbnb/lottie-react-native) ? 
+
+A mobile library that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile.
 ## Integrations
+### [react-native-google-signin](https://github.com/apptailor/react-native-google-signin) 💛
+
+Google Signin for your react native applications
 
 ## Storage
+### [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) 💛
+
+The fastest key/value storage for React Native.
+
+Problems: 
+-  Can't use remote debugging (e.g. with Chrome). Instead, you should use Flipper.
 
 ## System
 

@@ -41,7 +41,7 @@ Welcome to Simple React Native! Useful libraries, instructions, tutorials and mo
 ## UI
 ### [react-native-blur](https://github.com/Kureev/react-native-blur) ❤
     React Native Blur component
-Problems: 
-    - [you need to patch app for correct work on android](https://github.com/Kureev/react-native-blur/pull/411#issuecomment-818396825)
-    - confilicts with React Native Reanimated
+    Problems: 
+        - [you need to patch app for correct work on android](https://github.com/Kureev/react-native-blur/pull/411#issuecomment-818396825)
+        - confilicts with React Native Reanimated
 <br/>

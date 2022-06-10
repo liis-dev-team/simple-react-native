@@ -24,9 +24,9 @@ Welcome to Simple React Native! Useful libraries, instructions, tutorials and mo
 
 ## Animation
 
-* [react-native-animatable](https://github.com/oblador/react-native-animatable) 💚
-<br/>
+### [react-native-animatable](https://github.com/oblador/react-native-animatable) 💚
     Standard set of easy to use animations.
+<br/>
 
 ## Integrations
 
@@ -39,10 +39,9 @@ Welcome to Simple React Native! Useful libraries, instructions, tutorials and mo
 ## Utils
 
 ## UI
-* [react-native-blur](https://github.com/Kureev/react-native-blur) ❤
-<br/>
+### [react-native-blur](https://github.com/Kureev/react-native-blur) ❤
     React Native Blur component
 Problems: 
     - [you need to patch app for correct work on android](https://github.com/Kureev/react-native-blur/pull/411#issuecomment-818396825)
     - confilicts with React Native Reanimated
-
+<br/>

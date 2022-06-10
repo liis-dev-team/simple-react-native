@@ -52,6 +52,9 @@ Problems:
 
 React-native native module for In-App Purchase.
 
+ Problems: 
+- Test only in a real devices
+
 ## Utils
 
 ### [patch-package](https://github.com/ds300/patch-package)💚

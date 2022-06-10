@@ -59,6 +59,18 @@ React-native native module for In-App Purchase.
 Patch-package lets app authors instantly make and keep fixes to dependencies.
 
 Very useful if you want to fix a third party library.
+
+### [react-native-config](https://github.com/luggit/react-native-config)💚 
+
+Config variables for React Native apps
+
+### [babel-plugin-transform-remove-console](https://babeljs.io/docs/en/babel-plugin-transform-remove-console/) 💛
+
+Delete all console.log from production
+
+Problems: 
+- [Problems to set babel.config.js correctly](https://stackoverflow.com/questions/57692298/react-native-0-60-3-babel-plugin-transform-remove-console-not-working)
+
 ## UI
 ### [react-native-blur](https://github.com/Kureev/react-native-blur) ❤
 
@@ -66,4 +78,11 @@ React Native Blur component
 
 Problems: 
 - [you need to patch app for correct work on android](https://github.com/Kureev/react-native-blur/pull/411#issuecomment-818396825)
-- confilicts with React Native Reanimated
+- confilicts with React Native Reanimated 2
+
+ ### [react-native-calendars](https://github.com/wix/react-native-calendars) 💛
+ 
+ React Native Calendar Components
+
+ Problems: 
+- Very hard customization (if you build something serious, build your own calendar)

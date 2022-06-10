@@ -7,6 +7,8 @@ Welcome to Simple React Native! Useful libraries, instructions, tutorials and mo
 <br/>
 <br/>
 
+💚 💛 ❤
+
 # Categories
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

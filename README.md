@@ -89,3 +89,7 @@ Problems:
 
  Problems: 
 - Very hard customization (if you build something serious, build your own calendar)
+
+### [react-native-popover-view](https://github.com/steffeydev/react-native-popover-view) 💚
+
+React Native Popover component 

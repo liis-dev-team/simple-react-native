@@ -102,5 +102,12 @@ React Native Drawer component
 React Native Popover component 
 
 
+### [react-native-skeleton-placeholder](https://github.com/chramos/react-native-skeleton-placeholder) 💚
+
+React Native Skeleton preloader component
+
+ Problems: 
+- Can't place skeleton inside another skeleton.
+
 
 

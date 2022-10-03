@@ -97,6 +97,10 @@ React Native Drawer component
  Problems: 
 - Can't use navigation headers due to flickering issues. Need to use your custom ones,
 
+### [react-native-orientation-locker](https://github.com/wonday/react-native-orientation-locker) 💚
+
+The best library to use when you need to do something with device orientation.
+
 ### [react-native-popover-view](https://github.com/steffeydev/react-native-popover-view) 💚
 
 React Native Popover component 

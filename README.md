@@ -113,5 +113,10 @@ React Native Skeleton preloader component
  Problems: 
 - Can't place skeleton inside another skeleton.
 
+### [react-native-skeleton-placeholder](https://github.com/dohooo/react-native-reanimated-carousel) 💛
+
+Best React native carousel library. Great docs and examples. Pretty simple to start. You can do a lot of advanced stuff with this library.
+For example: Apple carousel time picker
+
 
 

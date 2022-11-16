@@ -101,6 +101,9 @@ React Native Drawer component
 
 The best library to use when you need to do something with device orientation.
 
+ Problems: 
+- Imperative orientation change doesn't work out of the box on iPad. You need to disable all orientations except portrait in Xcode for it to work. Yet this brings the problem when you launch your app your splash Screen will be displayed only in the portrait mode
+
 ### [react-native-popover-view](https://github.com/steffeydev/react-native-popover-view) 💚
 
 React Native Popover component 
